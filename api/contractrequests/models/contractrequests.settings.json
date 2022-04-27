@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contractrequests",
+  "info": {
+    "name": "contractrequests"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Date": {
+      "type": "datetime"
+    }
+  }
+}
